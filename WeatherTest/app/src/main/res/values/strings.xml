@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherTest</string>
+    <string name="temp">Temp :</string>
+    <string name="place">Place :</string>
+    <string name="plce">PLACE</string>
+    <string name="tmp">TEMP</string>
+</resources>
